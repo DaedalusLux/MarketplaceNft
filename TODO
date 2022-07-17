@@ -1,0 +1,11 @@
+- Aggiungere alla dashboard funzione removeOnMarket
+- removeOnMarket va passato come parametro il tokenId (uint256) dell'address
+- prendere il parametro tokenId dalla funzione Fetch
+- aggiungere bottone "remove From MArket" alla sezione dash
+- aggiungere stesso bottone nella sezione home
+-  "smart contract" aggiungere la possibilità di mettere in vendita tutti gli nft in possesso
+-  aggiungere sezione per la visualizzazione di tutti gli nft presenti sul proprio wallet
+-  aggiungere card per dare la possibiltà di mettere in vendita questi nft frontEnd
+-  "Smart Contract" aggiungere aste
+-  aggiungere sezione aste
+-  To Be Continued...
