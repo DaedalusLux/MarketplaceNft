@@ -19,7 +19,7 @@ module.exports = {
       accounts: [secrets.Pkey]
     },
 
-    RinkebyTestner: {
+    RinkebyTestnet: {
       url: `https://rinkeby.infura.io/v3/${secrets.InfuraId}`,
       accounts: [secrets.Pkey]
     }
